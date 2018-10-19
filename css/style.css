@@ -70,7 +70,7 @@ div.contenedor-menu{
 	width:200px;
 	height:100px;
 	float:left;
-	-webkit-transition:1s;
+	-webkit-transition:1.7s;
 	position:relative;   
 }
 div#menu-uno{
@@ -101,8 +101,8 @@ p.texto-menu{
 div .fas{
 	display:flex;
 	justify-content:center;
+	padding: 24px;
     color:rgb(255,255,255);
-	padding:24px; 
 	font-size:1.7em; 
 }
 div .far{
